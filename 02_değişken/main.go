@@ -12,8 +12,11 @@ func main() {
 	// Kısa yol (Sadece fonksiyon içinde kullanılır)
 	soyad := "Bodur"
 
-	// "Hello Emirhan" şeklinde ekrana yazı yazdırır
+	var name, surname string = "Emirhan", "Bodur"
+
+	
 	fmt.Println(ad)
 	fmt.Println(soyad)
 	fmt.Println(yas)
+	fmt.Println("Ad:", name ,"Soyad:", surname)
 }
