@@ -12,7 +12,8 @@ Kodlar sade ve anlaşılır olup, her satırda açıklamalar yer almaktadır.
 | --------------- | -------------------------------------------------------- |
 | `01_helloworld` | İlk Go uygulaması, ekrana yazı yazdırma örneği.          |
 | `02_değişken`   | Değişken tanımlama (`var`, `:=`) ve veri tipi örnekleri. |
-| ...             | Sürekli güncelleniyor 🚀                                 |
+| `03_data-types` | Temel veri tipleri ve kullanım örnekleri                 |
+| ...             | Sürekli güncelleniyor...                                 |
 
 > 📌 Her klasör içinde Go kodu ve Türkçe açıklamalar bulunmaktadır.
 
