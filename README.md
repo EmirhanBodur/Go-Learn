@@ -6,14 +6,19 @@ Kodlar sade ve anlaşılır olup, her satırda açıklamalar yer almaktadır.
 
 ---
 
-## 📂 Klasörler
+## 📁 Klasör Yapısı
 
-| Klasör Adı      | Açıklama                                                 |
-| --------------- | -------------------------------------------------------- |
-| `01_helloworld` | İlk Go uygulaması, ekrana yazı yazdırma örneği.          |
-| `02_değişken`   | Değişken tanımlama (`var`, `:=`) ve veri tipi örnekleri. |
-| `03_data-types` | Temel veri tipleri ve kullanım örnekleri                 |
-| ...             | Sürekli güncelleniyor...                                 |
+| 📂 Klasör Adı                       | 📌 Açıklama                                                              |
+| ----------------------------------- | ------------------------------------------------------------------------ |
+| `01_hello_world`                    | İlk Go programı – `fmt.Println()` ile ekrana yazı yazdırma örneği.       |
+| `02_variables`                      | Değişken tanımlama (`var`, `:=`) ve kullanım şekilleri.                  |
+| `03_data_types`                     | Temel veri tipleri: `int`, `string`, `bool`, `float32` vb. örnekleriyle. |
+| `04_zero_values_multiple_variables` | Sıfır değerler (zero values) ve çoklu değişken tanımlama örnekleri.      |
+| `05_practice`                       | Önceki konularla ilgili pekiştirici alıştırmalar ve uygulamalar.         |
+| `06_scope`                          | Global ve local scope kavramları, değişkenlerin erişim alanları.         |
+| `07_type_conversion`                | Tür dönüşümleri (`int` ⇄ `float64`), dönüşüm kuralları ve örnekler.      |
+| `08_constants`                      | Sabit tanımları (`const`), sabit ve değişken farkları.                   |
+| `...`                               | Diğer konular eklendikçe güncellenecektir.                               |
 
 > 📌 Her klasör içinde Go kodu ve Türkçe açıklamalar bulunmaktadır.
 
