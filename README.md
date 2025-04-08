@@ -40,5 +40,5 @@ Kodlar sade ve anlaşılır olup, her satırda açıklamalar yer almaktadır.
 
 Bu öğrenme aşamasında bana yardım etmek isterseniz, LinkedIn veya X adresimden bana fikrinizi ve tavsiyelerinizi iletebilirsiniz. Yardımlarınız ve geri dönüşleriniz benim için çok değerli olacaktır!
 
-- [LinkedIn Profilim](www.linkedin.com/in/emirhanbodur)
+- [LinkedIn Profilim](https://linkedin.com/in/emirhanbodur)
 - [X Profilim](https://x.com/emirhanndev)
