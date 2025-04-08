@@ -18,6 +18,9 @@ Kodlar sade ve anlaşılır olup, her satırda açıklamalar yer almaktadır.
 | `06_scope`                          | Global ve local scope kavramları, değişkenlerin erişim alanları.         |
 | `07_type_conversion`                | Tür dönüşümleri (`int` ⇄ `float64`), dönüşüm kuralları ve örnekler.      |
 | `08_constants`                      | Sabit tanımları (`const`), sabit ve değişken farkları.                   |
+| `09_naming_print`                   | İsimlendirme kuralları (CamelCase) ve yazdırma fonksiyonları (`fmt`).    |
+| `10_arithmetic_operations`          | Aritmetik operatörler, artırma ve azaltma işlemleri.                     |
+| `11_typeless_constants`             | Türsüz sabitler (Typeless Constants), otomatik tür çıkarımı ve örnekler. |
 | `...`                               | Diğer konular eklendikçe güncellenecektir.                               |
 
 > 📌 Her klasör içinde Go kodu ve Türkçe açıklamalar bulunmaktadır.
@@ -32,3 +35,10 @@ Kodlar sade ve anlaşılır olup, her satırda açıklamalar yer almaktadır.
    git clone https://github.com/EmirhanBodur/Go-Learn.git
    cd Go-Learn
    ```
+
+## Yardım ve İletişim
+
+Bu öğrenme aşamasında bana yardım etmek isterseniz, LinkedIn veya X adresimden bana fikrinizi ve tavsiyelerinizi iletebilirsiniz. Yardımlarınız ve geri dönüşleriniz benim için çok değerli olacaktır!
+
+- [LinkedIn Profilim](www.linkedin.com/in/emirhanbodur)
+- [X Profilim](https://x.com/emirhanndev)
